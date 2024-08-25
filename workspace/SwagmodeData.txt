@@ -1,0 +1,1 @@
+{"SkinnyGod":false,"FirstTime":true,"GunLoadout":{"BuyFood":false,"Weapons":[],"BuyFireArmor":false,"BuyArmor":false},"Configs":[],"Loadout":"empty","LastVersion":3.61,"Theme":"SwagMode","HideAlerts":false,"HideUI":false,"ExperiencedUpdate1":false,"HideTips":false,"ModChecks":true,"ScriptSettings":{"Desync":"Normal","QtoTPKeybind":"Q","ToggleUIKeybind":"V","MobileUI":false}}
